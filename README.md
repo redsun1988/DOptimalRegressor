@@ -52,4 +52,4 @@ y_pred = model.predict(X_test)
 - **Экономия ресурсов**: Возможность достижения высокой точности с меньшим количеством экспериментальных данных, что особенно важно в исследованиях с ограниченными ресурсами.  
 
 ## Ссылки  
-- [Исходный код](https://github.com/redsun1988/DOptimalRegressor)  
+- [Исходный код](https://github.com/redsun1988/DOptimalRegressor/blob/main/d_optiman_regressor.ipynb)  
